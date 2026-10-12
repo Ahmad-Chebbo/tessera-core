@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Modules\Team\Services;
+namespace App\Modules\Company\Services;
 
 use App\Modules\Company\Models\Company;
 use App\Modules\Team\Models\Role;
